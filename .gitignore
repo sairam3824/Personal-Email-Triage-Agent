@@ -1,0 +1,55 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Test and coverage output
+.pytest_cache/
+.coverage
+.coverage.*
+htmlcov/
+.tox/
+.nox/
+
+# Local application state and secrets
+.env
+.env.*
+!.env.example
+credentials.json
+token.json
+triage.db
+*.sqlite
+*.sqlite3
+
+# Tooling and OS files
+.DS_Store
+.idea/
+.vscode/
+
+# Playwright
+test-results/
+playwright-report/
