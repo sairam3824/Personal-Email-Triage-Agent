@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="720" viewBox="0 0 1200 720">
+  <rect width="1200" height="720" fill="#0d1117"/>
+  <rect x="40" y="40" width="1120" height="640" rx="18" fill="#161b22" stroke="#30363d"/>
+  <circle cx="90" cy="82" r="10" fill="#ff5f56"/>
+  <circle cx="122" cy="82" r="10" fill="#ffbd2e"/>
+  <circle cx="154" cy="82" r="10" fill="#27c93f"/>
+  <text x="190" y="88" fill="#8b949e" font-family="Menlo, Monaco, monospace" font-size="26">triage run --dry --limit 2</text>
+  <text x="70" y="150" fill="#7ee787" font-family="Menlo, Monaco, monospace" font-size="26">$ triage run --dry --limit 2</text>
+  <text x="70" y="210" fill="#c9d1d9" font-family="Menlo, Monaco, monospace" font-size="24">{</text>
+  <text x="100" y="250" fill="#79c0ff" font-family="Menlo, Monaco, monospace" font-size="24">"run_id"</text>
+  <text x="250" y="250" fill="#c9d1d9" font-family="Menlo, Monaco, monospace" font-size="24">: "9fd5c24e-2a06-4bb6-a7e9-0c7f9a..."</text>
+  <text x="100" y="290" fill="#79c0ff" font-family="Menlo, Monaco, monospace" font-size="24">"dry_run"</text>
+  <text x="250" y="290" fill="#c9d1d9" font-family="Menlo, Monaco, monospace" font-size="24">: true,</text>
+  <text x="100" y="330" fill="#79c0ff" font-family="Menlo, Monaco, monospace" font-size="24">"processed"</text>
+  <text x="250" y="330" fill="#c9d1d9" font-family="Menlo, Monaco, monospace" font-size="24">: 2,</text>
+  <text x="100" y="370" fill="#79c0ff" font-family="Menlo, Monaco, monospace" font-size="24">"decisions"</text>
+  <text x="250" y="370" fill="#c9d1d9" font-family="Menlo, Monaco, monospace" font-size="24">: [</text>
+  <text x="140" y="410" fill="#c9d1d9" font-family="Menlo, Monaco, monospace" font-size="22">{ "email_id": "18c8fd...", "category": "respond-now" },</text>
+  <text x="140" y="448" fill="#c9d1d9" font-family="Menlo, Monaco, monospace" font-size="22">{ "email_id": "18c8fe...", "category": "archive" }</text>
+  <text x="100" y="490" fill="#c9d1d9" font-family="Menlo, Monaco, monospace" font-size="24">]</text>
+  <text x="70" y="550" fill="#8b949e" font-family="Menlo, Monaco, monospace" font-size="22">Actions are simulated in dry-run mode: labels, drafts, archives, unsubscribe.</text>
+  <text x="70" y="610" fill="#c9d1d9" font-family="Menlo, Monaco, monospace" font-size="24">}</text>
+</svg>

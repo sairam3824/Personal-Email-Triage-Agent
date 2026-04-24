@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="620" viewBox="0 0 1200 620">
+  <rect width="1200" height="620" fill="#f6f8fa"/>
+  <rect x="40" y="40" width="1120" height="540" rx="18" fill="#0d1117" stroke="#30363d"/>
+  <circle cx="90" cy="82" r="10" fill="#ff5f56"/>
+  <circle cx="122" cy="82" r="10" fill="#ffbd2e"/>
+  <circle cx="154" cy="82" r="10" fill="#27c93f"/>
+  <text x="190" y="88" fill="#8b949e" font-family="Menlo, Monaco, monospace" font-size="26">triage feedback 18c8fdab219 archive</text>
+  <text x="70" y="160" fill="#7ee787" font-family="Menlo, Monaco, monospace" font-size="26">$ triage feedback 18c8fdab219 archive</text>
+  <text x="70" y="235" fill="#c9d1d9" font-family="Menlo, Monaco, monospace" font-size="26">- [2026-04-23 13:05 UTC] Emails from notifications@github.com -&gt; archive</text>
+  <text x="70" y="310" fill="#8b949e" font-family="Menlo, Monaco, monospace" font-size="22">This rule is appended to rules.md and read on future triage runs.</text>
+  <text x="70" y="390" fill="#79c0ff" font-family="Menlo, Monaco, monospace" font-size="22">rules.md</text>
+  <text x="70" y="430" fill="#c9d1d9" font-family="Menlo, Monaco, monospace" font-size="22"># Learned Triage Rules</text>
+  <text x="70" y="468" fill="#c9d1d9" font-family="Menlo, Monaco, monospace" font-size="22">- [2026-04-23 13:05 UTC] Emails from notifications@github.com -&gt; archive</text>
+</svg>
