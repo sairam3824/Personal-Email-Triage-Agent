@@ -1,4 +1,4 @@
-# Personal Email Triage Agent 🚀
+# Personal Email Triage Agent 
 
 [![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)](https://github.com/sairam3824/Personal-Email-Triage-Agent)
 
