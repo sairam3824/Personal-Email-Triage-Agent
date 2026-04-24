@@ -1,6 +1,4 @@
-# Personal Email Triage Agent 
-
-[![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)](https://github.com/sairam3824/Personal-Email-Triage-Agent)
+# Personal Email Triage Agent
 
 A production-oriented Python CLI for Gmail inbox triage. The agent reads unread Gmail messages, classifies each item, drafts replies, archives low-priority mail, handles unsubscribe flows, and learns from feedback through a local rules file.
 
