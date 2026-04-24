@@ -1,0 +1,19 @@
+1. Setup
+python3 -m venv .venv
+source .venv/bin/activate
+pip install -e .
+playwright install chromium
+
+2. Configure
+cp .env.example .env
+Add OPENAI_API_KEY in .env
+Put Gmail OAuth file as credentials.json
+
+3. Run
+triage run --dry --limit 10
+
+Real run:
+triage run
+
+Daemon:
+triage daemon
